@@ -1,0 +1,35 @@
+a,p,h1,th,h2{
+	color:yellow;
+	font-family:Arial;
+	font-family: 'Freckle Face', cursive;
+	text-shadow:-3px 0 blue, 0 3px blue, 3px 0 blue, 0 -3px blue;	
+}
+body{
+	background-image: url("http://piskel-imgstore-b.appspot.com/img/2514b00c-a554-11e6-b56a-db9d055ada16.gif");
+	background-repeat:no-repeat;
+	background-size: cover;
+	
+}
+table{
+	border:turquoise groove 3px;
+
+}
+a:link {
+    color:turquoise;
+    text-decoration:none;
+}
+h2 {
+	text-align:center;
+}
+a:visited {
+    color:turquoise;     
+}
+a:hover {
+    color:grey;   
+}
+a,p{
+	font-size:22px;
+}
+h2{
+	font-size:30px;
+}
