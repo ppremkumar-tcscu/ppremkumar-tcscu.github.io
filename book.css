@@ -1,0 +1,30 @@
+div{
+	border-radius:50% ;
+	border: 2px solid black;
+	background-color: orange;
+	height: 100px;
+	width: 100px;
+	margin: auto;
+	text-align: center;
+}
+a,p,h1,th,h2{
+	color:yellow;
+	font-family:Arial;
+	font-family: 'Freckle Face', cursive;
+	text-shadow:-3px 0 blue, 0 3px blue, 3px 0 blue, 0 -3px blue;	
+}
+a:link {
+    color:red;
+    text-decoration:none;
+}
+a:visited {
+    color:turquoise;     
+}
+a:hover {
+    color:grey;
+}
+body{
+	background-image: url("https://m.popkey.co/31d2ef/vzNN7.gif");
+	background-repeat:no-repeat;
+	background-size: cover;
+}
