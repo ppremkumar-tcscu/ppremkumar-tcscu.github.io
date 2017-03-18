@@ -1,9 +1,9 @@
 div{
 	width: 0;
 	height: 0;
-	border-top: 75px solid transparent;
+	border-top: 10px solid transparent;
 	border-left: 300px solid red;
-	border-bottom: 100px solid transparent;
+	border-bottom: 10px solid transparent;
 }
 a,p,h1,th,h2{
 	color:yellow;
